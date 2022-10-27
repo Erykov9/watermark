@@ -106,8 +106,6 @@ const startApp = async () => {
       console.log('Something went wrong...')
     }
   }
-  console.log('Logo :', options.watermarkImage);
-  console.log('Image :', options.inputImage);
 }
 
 startApp();
