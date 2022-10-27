@@ -1,0 +1,26 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "watermark-project",
+  "main": "app.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erykov9/watermark.git"
+  },
+  "keywords": [
+    "watermark"
+  ],
+  "author": "erykov9",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Erykov9/watermark/issues"
+  },
+  "homepage": "https://github.com/Erykov9/watermark#readme",
+  "dependencies": {
+    "inquirer": "^6.5.0",
+    "jimp": "^0.16.2"
+  }
+}
